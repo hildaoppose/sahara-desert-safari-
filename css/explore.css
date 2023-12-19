@@ -1,0 +1,104 @@
+* {
+    font-family: 'Playfair Display', serif;
+}
+
+body {
+    background-image: url(/img/connor-scheidler-9OT34cGVpy8-unsplash.jpg);
+    background-size: cover;
+}
+
+.explore {
+    display: flex;
+}
+
+.explore-items {
+    margin-right: 30px;
+    padding-top: 50px;
+    margin-bottom: -100px;
+}
+
+.left-side {
+    padding-left: 20px;
+    padding-top: 400px;
+    padding-right: 10px;
+    padding-bottom: 100px;
+}
+
+
+#social {
+    padding-bottom: 20px;
+}
+
+.features {
+    display: flex;
+}
+
+.heading-two {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 100px;
+    text-transform: capitalize;
+    margin-top: -30px
+}
+
+#explore-text {
+    color: #fff;
+    line-height: 2;
+    margin-top: -50px;
+}
+
+.book-trip {
+    border: none;
+    text-transform: capitalize;
+    background-color: rgba(255, 255, 255, 0.5);
+    color: white;
+    font-size: 18px;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    margin-bottom: -100px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+}
+
+.features {
+    border-radius: 30px;
+    padding-top: 20px;
+    padding-right: 50px;
+    margin-top: 470px;
+    padding-left: 50px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.icon {
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.text {
+    padding-right: 10px;
+}
+
+.features-items {
+    display: flex;
+
+}
+
+#bold {
+    font-weight: bold;
+    text-transform: capitalize;
+    color: #fff;
+}
+
+#normal {
+    text-transform: capitalize;
+    color: #fff;
+}
+
+.normal {
+    text-transform: capitalize;
+    color: #fff;
+}
